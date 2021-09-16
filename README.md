@@ -10,9 +10,7 @@ And trying to improve myself in Java.
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/erez-akdogan-57968a11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erezakdogan" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/16358915/erez-akdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erez-akdogan-57968a11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erezakdogan" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/16358915/erez-akdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
