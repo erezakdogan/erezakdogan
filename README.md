@@ -2,10 +2,10 @@
 
 - 🔭 I'm self-taught Back-End Developer and also interested in web development.
 - 🌱I've been actively coding since June 2021.
-And trying to improve myself in Java language.
+And trying to improve myself in Java.
 - 👯 Open to collaborate with anyone 🤣
 - 🥅 I am someone who refreshes my mind with new ideas every day and does so for my goals and the cumulative benefit of society.
-- ⚡Fun Facts :  
+- ⚡Fun Facts :  playing guitar.
 
 
 ### Connect with me:
